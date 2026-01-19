@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "dev": "cd smartstay-frontend && npm run dev",
+    "build": "cd smartstay-frontend && npm run build",
+    "lint": "cd smartstay-frontend && npm run lint",
+    "preview": "cd smartstay-frontend && npm run preview"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.22",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.17"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.17",
+    "axios": "^1.13.2"
+  }
+}
